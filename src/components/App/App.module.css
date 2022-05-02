@@ -1,0 +1,12 @@
+.wrapper {
+	min-height: 100%;
+}
+
+.lightBackground {
+	background: var(--mantine-color-gray-1);
+}
+
+.container {
+	min-height: 100%;
+	position: relative;
+}
